@@ -44,7 +44,8 @@
 
 
 ### 売上構造
-<img width="413" height="254" alt="image" src="https://github.com/user-attachments/assets/b7fd8faf-87ed-4aae-8daf-f79053239ccb" />
+<img width="272" height="206" alt="image" src="https://github.com/user-attachments/assets/b2219589-ffdf-4e79-9889-74eef7441d44" />
+
 
 
 ### 月次売上推移
