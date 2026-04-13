@@ -40,15 +40,16 @@
 
 ### 顧客分布
 
-![顧客分布](images/customer_distribution.png)
+<img width="420" height="250" alt="image" src="https://github.com/user-attachments/assets/c7bf162b-877c-4468-8699-8399dd6b1af1" />
+
 
 ### 売上構造
+<img width="413" height="254" alt="image" src="https://github.com/user-attachments/assets/b7fd8faf-87ed-4aae-8daf-f79053239ccb" />
 
-![売上分布](images/revenue_distribution.png)
 
 ### 月次売上推移
 
-![月次推移](images/monthly_trend.png)
+<img width="416" height="255" alt="image" src="https://github.com/user-attachments/assets/69c466c4-7366-4e6b-948e-8161d8b81b72" />
 
 ---
 
